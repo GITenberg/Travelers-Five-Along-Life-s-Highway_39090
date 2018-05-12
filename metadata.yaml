@@ -5,7 +5,7 @@ contributor:
     agent_name: Carman, Bliss
     alias: Carman, William Bliss
     birthdate: 1861
-    deathdate: &id001 1929
+    deathdate: 1929
     gutenberg_agent_id: '4343'
     url: http://www.gutenberg.org/2009/agents/4343
     wikipedia: http://en.wikipedia.org/wiki/Bliss_Carman
@@ -15,7 +15,7 @@ contributor:
     - Garrett, Edmund Henry
     - Garrett, E. H. (Edmund Henry)
     birthdate: 1853
-    deathdate: *id001
+    deathdate: 1929
     gutenberg_agent_id: '32199'
     url: http://www.gutenberg.org/2009/agents/32199
     wikipedia: http://en.wikipedia.org/wiki/Edmund_H._Garrett
@@ -34,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3050
     wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39090#Travelers-Five-Along-Life-s-Highway
 gutenberg_issued: '2012-03-10'
 gutenberg_type: Text
 identifiers:
