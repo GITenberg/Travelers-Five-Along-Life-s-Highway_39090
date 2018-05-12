@@ -1,0 +1,55 @@
+_repo: Travelers-Five-Along-Life-s-Highway_39090
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Carman, Bliss
+    alias: Carman, William Bliss
+    birthdate: 1861
+    deathdate: &id001 1929
+    gutenberg_agent_id: '4343'
+    url: http://www.gutenberg.org/2009/agents/4343
+    wikipedia: http://en.wikipedia.org/wiki/Bliss_Carman
+  illustrator:
+    agent_name: Garrett, Edmund H. (Edmund Henry)
+    aliases:
+    - Garrett, Edmund Henry
+    - Garrett, E. H. (Edmund Henry)
+    birthdate: 1853
+    deathdate: *id001
+    gutenberg_agent_id: '32199'
+    url: http://www.gutenberg.org/2009/agents/32199
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_H._Garrett
+covers:
+- cover_type: archival
+  image_path: 39090-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Johnston, Annie F. (Annie Fellows)
+    aliases:
+    - Fellows, Annie
+    - Johnston, Annie Fellows
+    birthdate: 1863
+    deathdate: 1931
+    gutenberg_agent_id: '3050'
+    url: http://www.gutenberg.org/2009/agents/3050
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
+description: ''
+gutenberg_issued: '2012-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39090'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'West (U.S.) -- Fiction'
+- !lcsh 'Short stories, American'
+tableOfContents: 'The first traveller: Jimmy, on the trail of the Wise Men -- The
+  second traveler: Gid Wiggan, in the wake of a honeymoon -- The third traveler: The
+  clown, towards his accolade -- The fourth traveler: Wexley Snathers, by way of an
+  inherited circus -- The fifth traveler: Bap Sloan, to his Mount of Pisgah.'
+title: "Travelers Five Along Life's Highway\r\nJimmy, Gideon Wiggan, the Clown, Wexley\
+  \ Snathers, Bap. Sloan"
+url: http://www.gutenberg.org/ebooks/39090
